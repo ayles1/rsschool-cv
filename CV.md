@@ -4,7 +4,7 @@
 
 ---
 
-##### Contact information:
+#### Contact information:
 
 ###### Phone: +7 999 164 27 44
 
